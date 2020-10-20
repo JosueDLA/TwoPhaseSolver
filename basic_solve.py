@@ -7,7 +7,7 @@ import start_server
 cubestring = 'DUUBULDBFRBFRRULLLBRDFFFBLURDBFDFDRFRULBLUFDURRBLBDUDL'
 
 # Advantage: No network layer needed.
-# Disadvantage: Only local usage possible.                                                                  #
+# Disadvantage: Only local usage possible.
 
 
 # solve with a maximum of 20 moves and a timeout of 2 seconds for example
